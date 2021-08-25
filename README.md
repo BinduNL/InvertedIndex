@@ -1,2 +1,2 @@
-# InvertedIndex
-Java program for invertedindex
+Install hadoop in seudo distrubuted mode
+hadoop 3.2.1 version 
